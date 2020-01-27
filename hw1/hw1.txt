@@ -1,0 +1,18 @@
+1.
+Part (a)
+1, 4, 8
+Part (b)
+2, 3, 4, 5
+Part (c)
+4
+Part (d)
+4
+
+2.
+Part (a)
+3
+Part (b)
+1) git add hw1q2b
+2) git log
+Part (c)
+Git will put the file into the commit history and ready to be pushed to github. It creates something similar as a save state in the code.
